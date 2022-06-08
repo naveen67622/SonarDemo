@@ -24,4 +24,4 @@ bat 'mvn sonar:sonar'
 }
 }
 }
-
+}
